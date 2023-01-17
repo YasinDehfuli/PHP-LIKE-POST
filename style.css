@@ -1,0 +1,19 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+div a {
+    text-decoration: none;
+    color:black;
+}
+.posts {
+width: 89%;
+    border: 1px double gray;
+    border-radius: 5px;
+    display: block;
+    box-shadow: 4px 4px 4px silver;
+    margin: auto;
+    padding: 15px;
+
+}
